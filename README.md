@@ -1,1 +1,1 @@
-# semantic-network-ie-thesis
+# semantic Networks Indo-European Languages
