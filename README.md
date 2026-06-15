@@ -1,1 +1,1 @@
-# semantic Networks Indo-European Languages
+# Semantic Networks Indo-European Languages
