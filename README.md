@@ -1,6 +1,6 @@
 # Mapping Meaning Across Indo-European Languages
 
-This repository contains the code used for my master's thesis *Mapping Meaning Across Indo-European Languages: A Semantic Network Analysis Using Subs2Vec Embeddings**.
+This repository contains the code used for my master's thesis *Mapping Meaning Across Indo-European Languages: A Semantic Network Analysis Using Subs2Vec Embeddings*.
 The project explores whether semantic networks created from word embeddings show structural similarities across Indo-European languages. In this analysis, words are represented as nodes, and semantic similarity relations between words are represented as edges. The resulting networks are then compared using graph-theoretic measures, hierarchical clustering, and visualizations.
 
 This project uses pretrained **Subs2Vec** word embeddings by [van Paridon and Thompson](https://osf.io/preprints/psyarxiv/fcrmy_v1). Subs2Vec provides word embeddings and frequency data trained from OpenSubtitles corpora.
