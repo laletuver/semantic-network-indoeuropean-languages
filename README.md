@@ -9,7 +9,7 @@ This project uses pretrained **Subs2Vec** word embeddings by [van Paridon and Th
 
 For each language, the workflow starts from two types of input files:
 
-- a unigram frequency file;
+- a unigram frequency file,
 - a word embedding file containing the word vectors.
 
 In the preprocessing notebook, these files are expected in the following filename format:
