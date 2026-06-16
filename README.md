@@ -53,7 +53,7 @@ The notebooks are intended to be used in the following order:
    - maximum degree,
    - number of connected components,
    - size of the largest connected component,
-   - largest component ratio;
+   - largest component ratio,
    - diameter of the largest connected component,
    - average shortest path length of the largest connected component,
    - average local clustering coefficient,
