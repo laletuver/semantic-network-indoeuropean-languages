@@ -72,7 +72,8 @@ The notebooks are intended to be used in the following order:
 
 ## Results
 
-The final network metric table is available in `results/igraph_metrics_summary.csv´. This file can be used to inspect the calculated graph-theoretic measures and to reproduce the hierarchical clustering and visualization steps without rerunning the full preprocessing and network construction pipeline.
+The final network metric table is available in `results/igraph_metrics_summary.csv´.
+This file can be used to inspect the calculated graph-theoretic measures and to reproduce the hierarchical clustering and visualization steps without rerunning the full preprocessing and network construction pipeline.
 Large intermediate files are not included in this repository. This includes raw embedding files, preprocessed `.npz` embedding matrices, cosine similarity matrices, and GraphML network files.
 
 ## Notes
